@@ -1,0 +1,8 @@
+
+
+java:S11925"MDefine a constant instead of duplicating this literal "id not found" 3 times.(Ä³Ö8öÉìÿ1J$0afcdfa1-aa6f-4646-b59e-35fe8bc18fc3
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¥¡ÃÿÿÿÿÿJ$e69c5977-48dc-48a1-8b6e-2402a9e7dec5
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‡öÉìÿ1J$d5200aa3-0e49-47e8-ba80-ab75a023984a
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‡öÉìÿ1J$dbe3a75b-735a-4750-ab31-fe1dcddbd4f3

@@ -1,0 +1,8 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¢Á÷J$a534d05b-a524-4cde-aa8e-1646fd5ca5ed
+	java:S116"URename this field "order_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿú¾J$699afd0e-0ade-4231-a190-db4b702b1cfd
+™	java:S116"^Rename this field "destination_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÙÃüJ$6c630291-2905-4c6a-8975-cf493cdf554b
+{
+java:S1128"8Remove this unused import 'java.time.DateTimeException'.(úÛ”™8”Òò€€2J$e7624ef2-2fb5-4489-a0ab-d2d6163d771a
+s
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8”Òò€€2J$c140e2f1-15dd-4a2e-9afd-1b90959b8017
