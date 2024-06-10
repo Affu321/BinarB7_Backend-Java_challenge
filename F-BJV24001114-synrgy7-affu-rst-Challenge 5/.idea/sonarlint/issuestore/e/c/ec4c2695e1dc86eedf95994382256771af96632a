@@ -1,0 +1,31 @@
+
+w
+java:S37404"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ8¬ŸÈÿÿ1J$faa92766-cb51-4e61-b1aa-9501a6ab00e8
+w
+java:S37404"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ8­ŸÈÿÿ1J$cf911412-b869-4cd2-a7ff-4c25c669bc7f
+w
+java:S3740P"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ8­ŸÈÿÿ1J$7ada1cd8-2f03-4d98-82c3-2633e6fef3b1
+w
+java:S3740P"/Provide the parametrized type for this generic.(™Þ­Ôþÿÿÿÿ8­ŸÈÿÿ1J$2b154b70-453b-4dad-8530-9616a2463866
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•“ñ¹þÿÿÿÿ8™¯Æÿÿ1J$c19c9d28-9980-4c66-8cdb-75432acf2db2
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8±ŸÈÿÿ1J$8eca6dd9-81b1-4e23-9ac3-5d2f92400410
+…
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄÞ8±ŸÈÿÿ1J$0bafaa39-a828-40c0-8188-d110e705c614
+…
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄÞ8±ŸÈÿÿ1J$6a22de6d-9353-4367-a7a2-2f1342cb68b5
+…
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄÞ8±ŸÈÿÿ1J$04cb6ebc-ebd6-4afa-84a1-708beb1753c3
+…
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞ8±ŸÈÿÿ1J$9d30d67e-fbd2-41e4-986c-65db220467de
+…
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄÞ8±ŸÈÿÿ1J$03ed83a3-6ea9-476e-96aa-8eea02bc3b5d
+
+java:S18544"7Remove this useless assignment to local variable "map".(™Þ­Ôþÿÿÿÿ8¸ŸÈÿÿ1J$53c775d7-4c7c-4dfc-b9bd-61f55230a752
+p
+java:S14814"(Remove this unused "map" local variable.(™Þ­Ôþÿÿÿÿ8»ŸÈÿÿ1J$0855c827-2281-437f-b4aa-2963dac91858
+
+java:S1854P"7Remove this useless assignment to local variable "map".(™Þ­Ôþÿÿÿÿ8½ŸÈÿÿ1J$16125ad4-b6d7-40e5-b2ab-4ab756899973
+p
+java:S1481P"(Remove this unused "map" local variable.(™Þ­Ôþÿÿÿÿ8½ŸÈÿÿ1J$9a035796-753f-4cab-abdf-8faaf4682cdc
+~	java:S125i"<This block of commented-out lines of code should be removed.(ª×§ô8¿ŸÈÿÿ1J$1bc8836b-76f3-4733-94f2-06ffb204a02e

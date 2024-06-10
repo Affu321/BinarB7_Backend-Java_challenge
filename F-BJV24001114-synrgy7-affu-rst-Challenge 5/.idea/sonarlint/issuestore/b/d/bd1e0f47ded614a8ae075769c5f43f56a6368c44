@@ -1,0 +1,32 @@
+
+J
+java:S1604E"(Make this anonymous inner class a lambda(ÿ¡µÀÿÿÿÿÿ8Ê×¯€€2
+T
+java:S26292"7Use the built-in formatting to construct this argument.(íÈ€®8Ì×¯€€2
+Y
+java:S26293"7Use the built-in formatting to construct this argument.(‚Å…şÿÿÿÿ8Ì×¯€€2
+Y
+java:S26294"7Use the built-in formatting to construct this argument.(Úò¦æùÿÿÿÿ8Ì×¯€€2
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖùŠh8Î×¯€€2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ğ×¯€€2
+_
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8ñ×¯€€2
+I
+java:S6857",Correct this malformed property placeholder.(¼´ı8ñ×¯€€2
+N
+java:S6857",Correct this malformed property placeholder.(•¶ºıùÿÿÿÿ8ò×¯€€2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¨àí­8ô×¯€€2
+Q
+java:S1874*"/Remove this use of "isEmpty"; it is deprecated.(³Ç«åıÿÿÿÿ8ö×¯€€2
+Q
+java:S1874-"/Remove this use of "isEmpty"; it is deprecated.(³Ç«åıÿÿÿÿ8ö×¯€€2
+^
+java:S34572"AFormat specifiers should be used instead of string concatenation.(íÈ€®8÷×¯€€2
+c
+java:S34573"AFormat specifiers should be used instead of string concatenation.(‚Å…şÿÿÿÿ8÷×¯€€2
+c
+java:S34574"AFormat specifiers should be used instead of string concatenation.(Úò¦æùÿÿÿÿ8÷×¯€€2
+c
+java:S3457>"AFormat specifiers should be used instead of string concatenation.(öÓÂäùÿÿÿÿ8û×¯€€2

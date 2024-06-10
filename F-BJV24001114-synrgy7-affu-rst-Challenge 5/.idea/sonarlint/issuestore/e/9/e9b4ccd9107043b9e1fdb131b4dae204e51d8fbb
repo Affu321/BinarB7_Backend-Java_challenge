@@ -1,0 +1,39 @@
+
+w
+java:S37408"/Provide the parametrized type for this generic.(â¡«áùÿÿÿÿ8…‹¨şÿ1J$ccd44a83-e693-4b07-9105-c0dab323c635
+w
+java:S3740f"/Provide the parametrized type for this generic.(¢ŠÇ¥ùÿÿÿÿ8…‹¨şÿ1J$179d9ca8-e7b5-4ac0-a37b-0bb77a86813d
+q
+java:S3740s"/Provide the parametrized type for this generic.(ïÓşp8…‹¨şÿ1J$c6021ecf-90b9-4007-ba61-d0ee72f62ad0
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß½è¯8ˆ‹¨şÿ1J$b78fd4ad-bf19-4f7a-bb6c-58d6f2e9d0fe
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‹¨şÿ1J$b100400e-d49a-4b19-ad78-15b1b2e74c04
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8‹¨şÿ1J$3ef308fd-d5f5-43c1-b4d5-2b3ba6251303
+…
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞ8‹¨şÿ1J$c6910605-e5e9-494d-8dd9-b9ea02564cfd
+…
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8‹¨şÿ1J$2a181fd0-54b1-4830-879a-fb4a1fa6ee8e
+…
+java:S68130"BRemove this field injection and use constructor injection instead.(êæÄŞ8‹¨şÿ1J$4d081f34-a3b3-4f46-86c1-2aa07df71ffc
+…
+java:S68133"BRemove this field injection and use constructor injection instead.(êæÄŞ8‹¨şÿ1J$5f8f87a7-4e9d-4d61-b67f-2fcb00074579
+t
+java:S6857'",Correct this malformed property placeholder.(¦Øùôşÿÿÿÿ8‹¨şÿ1J$d3709e72-63a2-448d-ba64-6f9a6b498c3f
+~
+java:S18549";Remove this useless assignment to local variable "message".( ËÛÉ8–‹¨şÿ1J$efea97f2-bfdb-4a2b-bae5-cff431b1c46f
+o
+java:S14819",Remove this unused "message" local variable.( ËÛÉ8˜‹¨şÿ1J$f6d2feed-0899-4d1d-ba11-e0b6ecde94e0
+r
+java:S1874;"/Remove this use of "isEmpty"; it is deprecated.(×¦€‚8™‹¨şÿ1J$35457ceb-2ddd-480b-81c7-e83d01801958
+ƒ	java:S125="<This block of commented-out lines of code should be removed.(ÊÖºáşÿÿÿÿ8›‹¨şÿ1J$d5c810e5-2d35-4677-b486-bff876f9851b
+r
+java:S1874@"/Remove this use of "isEmpty"; it is deprecated.(Šğı¾8œ‹¨şÿ1J$064fd008-dc4e-46ca-acd6-08f965ad2995
+
+java:S5361O"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ì¬–úÿÿÿÿ8 ‹¨şÿ1J$7956c47d-d3c9-4410-9201-cc02bda8edfa
+‹
+java:S5361P"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Æî¦Ó8¡‹¨şÿ1J$0fa8d6de-3362-4659-addd-51d84f5665f0
+‹
+java:S5361W"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Æî¦Ó8¢‹¨şÿ1J$44b2d480-6854-481e-9e85-57d341dff754
+‹
+java:S5361["HReplace this call to "replaceAll()" by a call to the "replace()" method.(Œ ã¨8¢‹¨şÿ1J$d7e61a08-4329-48c7-b35d-d101ddb4cc1d

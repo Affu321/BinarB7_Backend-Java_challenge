@@ -1,0 +1,106 @@
+
+Q
+java:S3740b"/Provide the parametrized type for this generic.(Ï˜ÿèşÿÿÿÿ8ÍïÍ€€2
+Q
+java:S3740s"/Provide the parametrized type for this generic.(Æ£ÿÿÿÿÿ8ÍïÍ€€2
+R
+java:S3740€"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿ8ÍïÍ€€2
+M
+java:S3740Ÿ"/Provide the parametrized type for this generic.(§ÆÆØ8ÍïÍ€€2
+R
+java:S3740 "/Provide the parametrized type for this generic.(ª£’ıÿÿÿÿ8ÍïÍ€€2
+R
+java:S3740³"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿ8ÍïÍ€€2
+M
+java:S3740½"/Provide the parametrized type for this generic.(º¿Å8ÍïÍ€€2
+R
+java:S3740Ã"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿ8ÍïÍ€€2
+R
+java:S3740Æ"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿ8ÍïÍ€€2
+{
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ£ÿÿÿÿÿ8ÎïÍ€€2
+|
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿ8ÏïÍ€€2
+|
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿ8ÏïÍ€€2
+|
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿ8ÏïÍ€€2
+|
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿ8ÏïÍ€€2
+e
+java:S1192}"HDefine a constant instead of duplicating this literal "message" 3 times.(ÏÓ†ˆ8ĞïÍ€€2
+i
+java:S1192|"GDefine a constant instead of duplicating this literal "status" 3 times.(à¦È¿øÿÿÿÿ8ĞïÍ€€2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûœ½¡øÿÿÿÿ8ÓïÍ€€2
+i
+java:S2259Á"FA "NullPointerException" could be thrown; "getBody()" can return null.(ò‘€ùÿÿÿÿ8Üúˆ€2
+i
+java:S2259©"FA "NullPointerException" could be thrown; "getBody()" can return null.(¸æıøıÿÿÿÿ8İúˆ€2
+i
+java:S2259¨"FA "NullPointerException" could be thrown; "getBody()" can return null.(”ê›úûÿÿÿÿ8İúˆ€2
+i
+java:S2259§"FA "NullPointerException" could be thrown; "getBody()" can return null.(•ö§šüÿÿÿÿ8İúˆ€2
+c
+java:S2259¿"FA "NullPointerException" could be thrown; "getBody()" can return null.(™Ìp8İúˆ€2
+i
+java:S2259¦"FA "NullPointerException" could be thrown; "getBody()" can return null.(ÉÚÔ„úÿÿÿÿ8Şúˆ€2
+d
+java:S2259ª"FA "NullPointerException" could be thrown; "getBody()" can return null.(£‡æò8Şúˆ€2
+i
+java:S2259¾"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ú“›Üÿÿÿÿÿ8Şúˆ€2
+i
+java:S2259«"FA "NullPointerException" could be thrown; "getBody()" can return null.(àìÀíÿÿÿÿÿ8ßúˆ€2
+n	java:S116<"RRename this field "BASEURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×£ºÇ8ÖïÍ€€2
+n	java:S116D"RRename this field "AUTHURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªáÈ×8ÖïÍ€€2
+s	java:S116S"RRename this field "APPNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñü¸ıÿÿÿÿ8ÖïÍ€€2
+_
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+_
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+_
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+_
+java:S6813>"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+_
+java:S6813F"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+_
+java:S6813I"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+_
+java:S6813L"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+_
+java:S6813O"BRemove this field injection and use constructor injection instead.(êæÄŞ8×ïÍ€€2
+N
+java:S68575",Correct this malformed property placeholder.(¦Øùôşÿÿÿÿ8ØïÍ€€2
+N
+java:S6857;",Correct this malformed property placeholder.(¬¹ˆêøÿÿÿÿ8ØïÍ€€2
+N
+java:S6857C",Correct this malformed property placeholder.(±Â¯øÿÿÿÿ8ØïÍ€€2
+N
+java:S6857R",Correct this malformed property placeholder.(ÿì¡ñüÿÿÿÿ8ØïÍ€€2
+P
+java:S6837a"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ÙïÍ€€2
+X	java:S125Z"<This block of commented-out lines of code should be removed.(µêî¡8ßïÍ€€2
+L	java:S106j"+Replace this use of System.out by a logger.(•æöÜúÿÿÿÿ8âïÍ€€2
+S
+java:S1874k"6Remove this use of "JacksonFactory"; it is deprecated.(¤·í©8çïÍ€€2
+G	java:S106"+Replace this use of System.out by a logger.(Ä¼éË8éïÍ€€2
+^	java:S125"<This block of commented-out lines of code should be removed.(òúÒ¥şÿÿÿÿ8ëïÍ€€2
+H	java:S106•"+Replace this use of System.out by a logger.(Êš•ñ8ëïÍ€€2
+Y	java:S125”"<This block of commented-out lines of code should be removed.(òŒŒÀ8ëïÍ€€2
+X	java:S125˜"<This block of commented-out lines of code should be removed.(õ±‰I8ëïÍ€€2
+H	java:S106¯"+Replace this use of System.out by a logger.(ğ¿¬Ñ8ïïÍ€€2
+H	java:S106Â"+Replace this use of System.out by a logger.(îï¬8ñïÍ€€2
+H	java:S106Å"+Replace this use of System.out by a logger.(Ë¤Áì8ñïÍ€€2
+Y	java:S125Ë"<This block of commented-out lines of code should be removed.(ßû÷Š8òïÍ€€2
+]
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ8µúˆ€2
+L
+java:S1128!"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8µúˆ€2
+H
+java:S1128""+Remove this unused import 'java.util.Date'.(¸…¼ü8µúˆ€2
+l
+java:S1128&"JRemove this unused import 'javax.validation.ConstraintViolationException'.(×ÁËóüÿÿÿÿ8µúˆ€2
+U
+java:S1128'"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ8¶úˆ€2
+@
+java:S1128("Remove this duplicated import.(¼è½Òşÿÿÿÿ8òïÍ€€2

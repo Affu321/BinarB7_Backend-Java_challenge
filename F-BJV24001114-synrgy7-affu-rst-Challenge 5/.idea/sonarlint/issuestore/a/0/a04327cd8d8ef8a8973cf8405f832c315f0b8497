@@ -1,0 +1,7 @@
+
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÔŒ›8ï·¨€€2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ÕÂŠùÿÿÿÿ8ğ·¨€€2
+;
+java:S2119"Save and re-use this "Random".(–áÍÈ8‰¸¨€€2
+5
+java:S2140"Use "nextInt()" instead.(†¥Œ8Š¸¨€€2

@@ -1,0 +1,61 @@
+
+E
+java:S3740'"/Provide the parametrized type for this generic.(°…Ìƒ
+E
+java:S3740("/Provide the parametrized type for this generic.(ø÷ìŞ
+J
+java:S3740+"/Provide the parametrized type for this generic.(è„º´ûÿÿÿÿ
+D
+java:S3740,"/Provide the parametrized type for this generic.(í¸N
+J
+java:S3740-"/Provide the parametrized type for this generic.(ô¹‚šıÿÿÿÿ
+J
+java:S37400"/Provide the parametrized type for this generic.(—Ñùàÿÿÿÿÿ
+E
+java:S37401"/Provide the parametrized type for this generic.( ƒÊ
+E
+java:S37402"/Provide the parametrized type for this generic.(ôÆâ
+J
+java:S37405"/Provide the parametrized type for this generic.(³ë×·ıÿÿÿÿ
+J
+java:S37406"/Provide the parametrized type for this generic.(äÍÀÂüÿÿÿÿ
+J
+java:S37409"/Provide the parametrized type for this generic.(ùğ­©üÿÿÿÿ
+E
+java:S3740:"/Provide the parametrized type for this generic.(«ÆòÚ
+E
+java:S3740A"/Provide the parametrized type for this generic.(”ºèô
+J
+java:S3740T"/Provide the parametrized type for this generic.(ÇŞÁúÿÿÿÿ
+o
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ø÷ìŞ
+t
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¹‚šıÿÿÿÿ
+o
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÆâ
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÍÀÂüÿÿÿÿ
+o
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ÆòÚ
+t
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇŞÁúÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ñùàÿÿÿÿÿ
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ë×·ıÿÿÿÿ
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùğ­©üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š±ÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+[
+java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(è„º´ûÿÿÿÿ
+[
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(—Ñùàÿÿÿÿÿ
+V
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.(Úİæë
+D
+java:S1128".Remove this unused import 'javax.persistence'.(¬£şç
+G
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ

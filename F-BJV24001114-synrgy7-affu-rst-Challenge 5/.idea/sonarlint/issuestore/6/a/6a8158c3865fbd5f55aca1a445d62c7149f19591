@@ -1,0 +1,14 @@
+
+
+java:S1192!"FDefine a constant instead of duplicating this literal "title" 4 times.(ì×­èşÿÿÿÿ8­×¢şÿ1J$2a6b366e-b8f2-42d6-9905-87fd6bf1269c
+‘
+java:S1192 "IDefine a constant instead of duplicating this literal "erordesc" 4 times.(‹ñ£øÿÿÿÿÿ8®×¢şÿ1J$e929bc0f-d7ef-47a4-bdfe-5843979ee6ba
+‘
+java:S1192""IDefine a constant instead of duplicating this literal "register" 4 times.(ã‹¥œúÿÿÿÿ8®×¢şÿ1J$f1ea57a8-f35e-4c07-a876-7aa3d2abcdf3
+§
+java:S1488G"_Immediately return this expression instead of assigning it to the temporary variable "strDate".(Ñˆƒùÿÿÿÿ8°×¢şÿ1J$58e2701c-1855-4523-a298-467d808e1a05
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù…¾¢øÿÿÿÿ8²×¢şÿ1J$b16c57e5-dd99-42eb-a486-66dd636fc19d
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¾×¢şÿ1J$60148b45-1426-4f15-891a-e415120d471a
+m	java:S106"+Replace this use of System.out by a logger.(¬‘ƒİ8È×¢şÿ1J$8a76dfd7-c662-48f2-b139-b209a33a7b76
+ƒ	java:S125H"<This block of commented-out lines of code should be removed.(÷˜¹¼úÿÿÿÿ8Ô×¢şÿ1J$291fb819-29b5-496b-bf2c-3d8196b3231d

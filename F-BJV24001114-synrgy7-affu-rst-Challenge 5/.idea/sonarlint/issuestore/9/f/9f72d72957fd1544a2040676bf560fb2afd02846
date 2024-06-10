@@ -1,0 +1,138 @@
+
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(´¥À„üÿÿÿÿ8òØÑŠ€2
+g	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Äğ™Îøÿÿÿÿ8óØÑŠ€2
+c	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(â®èÅ8ôØÑŠ€2
+w
+java:S37400"/Provide the parametrized type for this generic.(´¥À„üÿÿÿÿ8˜ˆšşÿ1J$516e56f9-0ef7-4c00-bcea-b28efecae440
+w
+java:S37401"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8šˆšşÿ1J$6c7a7348-7b36-4914-82d3-57553a8fe5fd
+w
+java:S37401"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8šˆšşÿ1J$d9d0ac44-a02f-42f7-92cd-a69bad072e6d
+w
+java:S37405"/Provide the parametrized type for this generic.(¼ïËüüÿÿÿÿ8šˆšşÿ1J$53737a6c-f1a2-4541-a5ba-603f642c36f9
+w
+java:S37409"/Provide the parametrized type for this generic.(ìÏ¶ıÿÿÿÿ8šˆšşÿ1J$333ee600-6fa9-4455-a8bd-2f608009d4a4
+r
+java:S3740:"/Provide the parametrized type for this generic.(‡É‘¥8šˆšşÿ1J$5003937e-f0de-4c2d-b35f-d42ade449c21
+q
+java:S3740<"/Provide the parametrized type for this generic.(Ìá]8šˆšşÿ1J$eebeff24-86ab-4a69-a973-d272170a74a7
+w
+java:S3740A"/Provide the parametrized type for this generic.(Äğ™Îøÿÿÿÿ8›ˆšşÿ1J$3627a4f0-8b10-4cf4-8bd6-18b1bb7162e5
+w
+java:S3740B"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8›ˆšşÿ1J$ed9734ae-2ba4-4ea7-99bc-3ec0860ec7fa
+w
+java:S3740B"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8›ˆšşÿ1J$f10903eb-ee03-44a6-bb3f-fd0bb6e55ae1
+w
+java:S3740F"/Provide the parametrized type for this generic.(ë˜°ÿùÿÿÿÿ8›ˆšşÿ1J$79e92749-aa45-4127-97f2-1202537e7ccd
+q
+java:S3740K"/Provide the parametrized type for this generic.(² öN8›ˆšşÿ1J$b2625ea7-6a1f-46d4-9f6d-9654cec47d5c
+w
+java:S3740L"/Provide the parametrized type for this generic.(•·øŸùÿÿÿÿ8›ˆšşÿ1J$79f002b4-d930-4bc9-a993-da6cf505ce8a
+w
+java:S3740S"/Provide the parametrized type for this generic.(õòßÇûÿÿÿÿ8›ˆšşÿ1J$2615cda1-3931-4a8f-8859-f608b12d55e9
+r
+java:S3740v"/Provide the parametrized type for this generic.(ƒÓÂ²8›ˆšşÿ1J$13944b02-753c-44ff-ad4c-49c95beebbca
+w
+java:S3740|"/Provide the parametrized type for this generic.(¨™Ãøÿÿÿÿ8›ˆšşÿ1J$4a299b56-37d5-46b8-ad45-f26e3d5127bc
+s
+java:S3740"/Provide the parametrized type for this generic.(òÍÊĞ8›ˆšşÿ1J$93e81f71-0107-4405-ae13-223a0c122a65
+s
+java:S3740‡"/Provide the parametrized type for this generic.(•ú£‚8›ˆšşÿ1J$6d72c5cb-5b73-4a01-8ca7-e76dfc887842
+x
+java:S3740"/Provide the parametrized type for this generic.(Ç”¶‡ÿÿÿÿÿ8›ˆšşÿ1J$cc39430d-dbc8-498a-ac2d-013deaca4d89
+s
+java:S3740“"/Provide the parametrized type for this generic.(ç£êâ8›ˆšşÿ1J$3368aed3-6b50-4a91-9713-b0259340a1a8
+s
+java:S3740¶"/Provide the parametrized type for this generic.(â®èÅ8ˆšşÿ1J$5b7aadd8-81a3-4922-88bb-34a6f5d6da4d
+x
+java:S3740·"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8ˆšşÿ1J$98eec2ec-db74-40e0-81b5-193046d7c1ca
+x
+java:S3740·"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8ˆšşÿ1J$06ebfa21-b504-4657-8caf-7f631c468dc0
+x
+java:S3740»"/Provide the parametrized type for this generic.(ë˜°ÿùÿÿÿÿ8ˆšşÿ1J$c674c401-731b-412c-abe1-49fa8c31f7b0
+s
+java:S3740À"/Provide the parametrized type for this generic.(•¿ùÈ8ˆšşÿ1J$44dbdcbc-4504-4df2-a53a-1c5f16fbd5d5
+x
+java:S3740Á"/Provide the parametrized type for this generic.(•·øŸùÿÿÿÿ8ˆšşÿ1J$6db1434a-3f54-4c74-a2ea-44fa6aa661e4
+¡
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ïËüüÿÿÿÿ8ˆšşÿ1J$9ff6e978-4c5d-4104-a286-19788661890a
+›
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ìá]8ˆšşÿ1J$aeb39a3e-bf84-4619-a82b-f32751b559d4
+¡
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë˜°ÿùÿÿÿÿ8ˆšşÿ1J$d0878d3f-44e0-4548-bffc-27e2cdcca697
+¡
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(•·øŸùÿÿÿÿ8ˆšşÿ1J$2e7b4805-31b1-46c0-863c-d6a1c83825c9
+¡
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨™Ãøÿÿÿÿ8ˆšşÿ1J$ba90d769-5611-45e7-9fef-6e4092e1c789
+
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÍÊĞ8ˆšşÿ1J$a7d02695-5517-4c9d-b43b-689776f0433a
+
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ú£‚8 ˆšşÿ1J$d990d5a3-7e5d-45cd-8c39-4f177c23be84
+¢
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç”¶‡ÿÿÿÿÿ8 ˆšşÿ1J$8d995c45-45c9-48d5-a8c7-e70b5a2a09b6
+¢
+java:S2293»"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë˜°ÿùÿÿÿÿ8 ˆšşÿ1J$11dc0fe8-9e52-4c9d-9851-a204d12591cc
+¢
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(•·øŸùÿÿÿÿ8 ˆšşÿ1J$86997d87-4088-47b1-852c-b92f2bf70688
+—
+java:S1192l"UDefine a constant instead of duplicating this literal "\\{\\{VERIFY_TOKEN}}" 4 times.(´§Ú;8¡ˆšşÿ1J$7f4fc939-6548-4bbf-aa8b-3347b100914b
+›
+java:S11925"SDefine a constant instead of duplicating this literal "Username sudah ada" 3 times.(¼ïËüüÿÿÿÿ8¨ˆšşÿ1J$e4fe2fb1-1309-45b6-9e12-702ee3d88098
+™
+java:S1192k"QDefine a constant instead of duplicating this literal "\\{\\{USERNAME}}" 4 times.(½ÍùØøÿÿÿÿ8­ˆšşÿ1J$825ea277-ca49-475f-9001-99a235cd51f8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûœ½¡øÿÿÿÿ8´ˆšşÿ1J$e82bc715-10e0-4f45-a53c-26c05d0878ff
+•	java:S116"RRename this field "BASEURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×£ºÇ8ºˆšşÿ1J$43faa68a-f38f-47fa-ba8a-c37fc01babdf
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8»ˆšşÿ1J$56e6233f-127c-48c8-b09c-268370d92d70
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8»ˆšşÿ1J$ec6f5e34-3108-40b6-a651-1d174a862383
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8»ˆšşÿ1J$204145bc-c1c2-4b9f-8e93-b3fc6e9eaf31
+…
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8»ˆšşÿ1J$d9de81e9-3588-4b31-96da-0b74c39b0b6e
+…
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄŞ8»ˆšşÿ1J$ded7d146-800b-46f6-9a58-139f38541f52
+t
+java:S6857+",Correct this malformed property placeholder.(¦Øùôşÿÿÿÿ8¾ˆšşÿ1J$4b4d628f-5548-4a34-a4a2-85fc2cb51eca
+u
+java:S6857",Correct this malformed property placeholder.(¬¹ˆêøÿÿÿÿ8¾ˆšşÿ1J$ef6134c6-dae6-43e7-8a99-bbd0556e9d5c
+
+java:S18541"7Remove this useless assignment to local variable "map".(™Ş­Ôşÿÿÿÿ8ä×šşÿ1J$16a230fc-7a50-4bd8-8c01-0aea7ffbe39a
+
+java:S1854:">Remove this useless assignment to local variable "sendOTPUri".(‡É‘¥8å×šşÿ1J$16c0e384-fb8f-4a32-b617-0521f889b8a7
+ƒ
+java:S18549";Remove this useless assignment to local variable "sendOTP".(ìÏ¶ıÿÿÿÿ8Åˆšşÿ1J$c050b1ca-ca56-418a-bd20-f2168b69edf9
+t
+java:S14819",Remove this unused "sendOTP" local variable.(ìÏ¶ıÿÿÿÿ8Îˆšşÿ1J$e8e60c4f-a26b-400b-bb36-13167bf5b3f3
+r
+java:S1481:"/Remove this unused "sendOTPUri" local variable.(‡É‘¥8ï×šşÿ1J$14904b8b-c95e-405f-b547-bdae22b5ea58
+
+java:S1854B"7Remove this useless assignment to local variable "map".(™Ş­Ôşÿÿÿÿ8ğ×šşÿ1J$dd02d426-d86d-42a8-a3f0-95dadc4a8899
+z
+java:S1854I"7Remove this useless assignment to local variable "map".(ğÂ¡Î8ğ×šşÿ1J$db553696-b806-4263-a932-ed92d64873fc
+p
+java:S1481B"(Remove this unused "map" local variable.(™Ş­Ôşÿÿÿÿ8ò×šşÿ1J$1c2f50f9-202c-43c8-a3ae-6f5463dc2130
+ƒ	java:S125Y"<This block of commented-out lines of code should be removed.(ÆĞÈ³øÿÿÿÿ8÷×šşÿ1J$82fe1b37-453b-41d9-bdd4-8e4717ba5da7
+
+java:S5361k"HReplace this call to "replaceAll()" by a call to the "replace()" method.(½ÍùØøÿÿÿÿ8ßˆšşÿ1J$9eee2d39-e206-45e5-9dda-8598b4a986f5
+Š
+java:S5361l"HReplace this call to "replaceAll()" by a call to the "replace()" method.(´§Ú;8âˆšşÿ1J$8b7616a3-e104-4b1f-9cfb-0a997117843d
+
+java:S5361o"HReplace this call to "replaceAll()" by a call to the "replace()" method.(½ÍùØøÿÿÿÿ8òˆšşÿ1J$a4618b7e-66d4-43c5-89b2-51c501a98931
+
+java:S5361p"HReplace this call to "replaceAll()" by a call to the "replace()" method.(™´ÿóşÿÿÿÿ8ôˆšşÿ1J$2263858a-4255-465f-b163-facb4359fae2
+„	java:S125˜"<This block of commented-out lines of code should be removed.(ÆĞÈ³øÿÿÿÿ8‰Øšşÿ1J$3d0c8996-0323-41b2-a668-3e3d20f434a2
+‘
+java:S5361ª"HReplace this call to "replaceAll()" by a call to the "replace()" method.(½ÍùØøÿÿÿÿ8Øšşÿ1J$eb96178e-f2ff-49e9-a248-8f3dec4c6eda
+‘
+java:S5361«"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ù¨Ã¿şÿÿÿÿ8Øšşÿ1J$70a74396-d210-4134-9e5a-195695bc0cb0
+‘
+java:S5361®"HReplace this call to "replaceAll()" by a call to the "replace()" method.(½ÍùØøÿÿÿÿ8‘Øšşÿ1J$1b3f651e-6a0e-4a9c-a274-191b9c0cc6d3
+Œ
+java:S5361¯"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ü³8“Øšşÿ1J$b7b3c104-bb57-41f8-82b5-fb621a24cf51
+€
+java:S1854·"7Remove this useless assignment to local variable "map".(™Ş­Ôşÿÿÿÿ8”Øšşÿ1J$8d9d0f09-7ca7-470c-a1f3-fef5a130801b
+{
+java:S1854¾"7Remove this useless assignment to local variable "map".(ğÂ¡Î8”Øšşÿ1J$d7bd40e9-8e9b-4be2-a4b2-447b8a2b3f67
+q
+java:S1481·"(Remove this unused "map" local variable.(™Ş­Ôşÿÿÿÿ8–Øšşÿ1J$b44add36-8108-4c2e-ae9e-76e90357d364

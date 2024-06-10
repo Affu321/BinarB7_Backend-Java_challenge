@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ê¡¨ùÿÿÿÿ8êÙŠ€2
+q
+java:S1874L"/Remove this use of "isEmpty"; it is deprecated.(÷åÇ8¤‰ÙŠ€2J$ec249e4d-5715-4468-acc3-4c75ab76cfce
+w
+java:S1874b"/Remove this use of "isEmpty"; it is deprecated.(îà–­ÿÿÿÿÿ8¦‰ÙŠ€2J$39530f58-4860-44b5-bf66-41aacbd8cb14
+n
+java:S1168}"+Return an empty collection instead of null.(¥¹ï8©‰ÙŠ€2J$e2647312-469e-4e70-9eee-d70a0455fcad
+o
+java:S1168–"+Return an empty collection instead of null.(¥¹ï8«‰ÙŠ€2J$0fd7c505-7a68-4476-83d5-7fc218e9663f

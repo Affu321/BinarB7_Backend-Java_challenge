@@ -1,0 +1,16 @@
+
+§
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "strDate".(Ñˆƒùÿÿÿÿ8ş¼£ıÿ1J$2a090f52-6771-4f18-a0d4-f43300ea1ac3
+—
+java:S1104"TMake APP_NAME a static final constant or non-public and provide accessors if needed.(ö¡ÀÙ8ÿ¼£ıÿ1J$453e665f-3de7-487b-b163-2ff282f9d0aa
+“
+java:S1104"PMake code a static final constant or non-public and provide accessors if needed.(€‹ó¹8ÿ¼£ıÿ1J$b235b79d-c5c9-4818-9b8d-c54ea3c86ca5
+›
+java:S1104"SMake message a static final constant or non-public and provide accessors if needed.(ü‡çÿûÿÿÿÿ8ÿ¼£ıÿ1J$f7d07b13-fb03-4fcb-a24f-1f1c3bef6998
+q
+java:S1444".Make this "public static APP_NAME" field final(ö¡ÀÙ8€½£ıÿ1J$a69cea37-a629-493a-88ec-0e31b5bebdc4
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïù­J$5973808c-3de2-42c7-b0fb-5ff6b701917e
+–
+java:S3008"SRename this field "APP_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡ÀÙ8’½£ıÿ1J$150c2419-8ad1-41d6-a695-ab7859f2d0d4
+|
+java:S3400"9Remove this method and declare a constant for this value.(—ÙÂš8Ÿ½£ıÿ1J$1c7aaaa2-bbf1-4bca-bf82-2a5e7f648dc3
