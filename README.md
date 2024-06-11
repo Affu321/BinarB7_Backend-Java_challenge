@@ -81,15 +81,7 @@ To set up and run this database, follow these steps:
    ```bash
    pg_restore -U <username> -d <database_name> dump_file.dump
 
-
-
-
-
-
-
-
 # Installation JPA
-# Requirements
 Make sure you have installed:
 - Java 11 or newer
 - Maven
