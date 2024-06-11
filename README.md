@@ -38,9 +38,6 @@ Instructions to get started.
 ### Prerequisites
 What things you need to install the software.
 
-### Installation
-Step by step process to install.
-
 ## Usage
 How to use the project.
 
