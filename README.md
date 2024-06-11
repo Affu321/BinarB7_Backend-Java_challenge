@@ -1,66 +1,67 @@
-# Challenge Binar Back-End Java Batch 7
-Ini adalah sekumpulan Challenge Backend Java SpringBoot, dari belajar dasar" java, hingga membuat sebuah restAPI untuk sebuah aplikasi BackEnd dengan dokumentasi menggunakan swagger
-
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Challenge 1](#Challenge 1)
-- [Challenge 2](#Challenge 2)
-- [Challenge 3](#Challenge 3)
-- [Challenge 4](#Challenge 4)
-- [Challenge 5](#Challenge 5)
-- [Challenge 6](#Challenge 6)
+- [Challenge 1 ](#Challenge1)
+- [Challenge 2](#Challenge2)
+- [Challenge 3](#Challenge3)
+- [Challenge 4](#Challenge4)
+- [Challenge 5](#Challenge5)
+- [Challenge 6](#Challenge6)
 - [License](#license)
+
+
+# Getting Started - Challenge Binar Back-End Java Batch 7
+Ini adalah sekumpulan Challenge Backend Java SpringBoot, dari belajar dasar" java, hingga membuat sebuah restAPI untuk sebuah aplikasi Back-End dengan dokumentasi menggunakan swagger
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 
-## Challenge 1
-Challenge 1 ini membuat sebuah aplikasi pemesanan online yang nantinya bisa di generate berupa file txt.
- - Pertama user diminta untuk menginputkan makanan yang ingin di pesan
- ![Screenshot 2024-06-10 182542](https://github.com/Affu321/BinarB7_Backend-Java_challenge/assets/97963813/fea50ef0-24d4-46ea-bd63-21c7bbbad9ef)
- - Lalu di minta user untuk mengkonfirmasi pesanan tersebut
 
- - Selanjutnya ditunjukkanya detail pemesanan dan di minta unutk mengkonfirmasi pesanan yang nantinya unutk dibayar
+## Challenge 1 
+In this challenge, the restaurant ordering system is implemented using a procedural programming approach.
 
- - Setelah di konfirmasi, nanti akan ter-generate file txt. yang diaman itu ada struk belanja tersebut
+### Key Features:
+- Display a menu with various food and drink options.
+- Allow users to select items and specify quantities.
+- Calculate the total price of the order.
+- Confirm and generate a receipt saved to a file (`struk_pembelian.txt`).
 
- 
+### Code Overview:
+- The application flow is controlled by a `while` loop that continues until the user decides to exit.
+- Menu selection is handled using a `switch` statement.
+- Orders and quantities are stored in `ArrayList` objects.
+- The total price is calculated dynamically as items are added to the order.
+- Upon order confirmation, a receipt is generated and saved to a file.
+- ## How to Run
 
-# Project Title
-Some introductory text.
+1. **Clone the Repository:**
+   ```sh
+   git clone <repository-url>
+   cd <repository-directory>
 
+## Challenge 2 - Object-Oriented Approach
 
+In this challenge, the restaurant ordering system is refactored to use Object-Oriented Programming principles.
 
-## Getting Started
-Instructions to get started.
+### Key Features:
+- Uses a `MenuItem` class to represent each menu item with a name and price.
+- Uses a `Restaurant` class to handle the main application logic.
+- The `Restaurant` class contains methods to display the menu, process orders, and generate receipts.
+- Improved error handling using `try-catch` blocks.
 
-### Prerequisites
-What things you need to install the software.
+### Code Overview:
+- `MenuItem` class: Represents individual menu items.
+- `Restaurant` class: Contains methods to start the application, process user input, and handle orders.
+- `MainRestaurant` class: Contains the `main` method to launch the application.
+- Menu items are stored in a static list initialized in the `Restaurant` class.
+- Improved structure and readability by encapsulating related functionality within classes and methods.
 
-## Usage
-How to use the project.
+## How to Run
 
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Details about the license.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. **Clone the Repository:**
+   ```sh
+   git clone <repository-url>
+   cd <repository-directory>
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
@@ -69,181 +70,25 @@ Details about the license.
 - Drag and drop markdown and HTML files into Dillinger
 - Export documents as Markdown, HTML and PDF
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+# Challenge 3
+In this challenge contains a PostgreSQL database dump for a project focusing on DDL (Data Definition Language) operations, database integration, and instructions on how to run it. Below is an overview of the database structure and how to execute it.
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+## Database Structure
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+The database dump includes the following tables:
 
-## Tech
+1. **merchant**: Stores information about merchants, including their name, location, and open status.
+2. **orderdetail**: Contains details of orders such as order ID, product ID, and quantity.
+3. **orderentity**: Manages order entities, including order time, destination address, user ID, and completion status.
+4. **product**: Stores product information like product name, price, and associated merchant ID.
+5. **users**: Contains user details such as username, email address, and password.
 
-Dillinger uses a number of open source projects to work properly:
+## Instructions
 
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+To set up and run this database, follow these steps:
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
-## Installation
-
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
-## Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
-
-```sh
-node app
-```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
-
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
-
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
-
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
-
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
-
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
-
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
-
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
-   
-   
-   
- # Installation
- - testtttt
-  - testtttt
-   - testtttt
-  - testtttt
+1. **Install PostgreSQL**: Ensure PostgreSQL is installed on your system. You can download it from the [official website](https://www.postgresql.org/download/).
+2. **Create a Database**: After installing PostgreSQL, create a new database. You can do this via the PostgreSQL command line or a graphical tool like pgAdmin.
+3. **Restore the Dump**: Use the `pg_restore` command or a tool like pgAdmin to restore the database dump provided in this repository into the newly created database. For example:
+   ```bash
+   pg_restore -U <username> -d <database_name> dump_file.dump
