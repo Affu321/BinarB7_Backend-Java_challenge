@@ -3,6 +3,7 @@
 - [Challenge 1](#challenge-1)
 - [Challenge 2](#challenge-2)
 - [Challenge 3](#challenge-3)
+- [Installation JPA](#InstallationJPA)
 
 # Getting Started - Challenge Binar Back-End Java Batch 7
 Ini adalah sekumpulan Challenge Backend Java SpringBoot, dari belajar dasar" java, hingga membuat sebuah restAPI untuk sebuah aplikasi Back-End dengan dokumentasi menggunakan swagger
@@ -79,3 +80,39 @@ To set up and run this database, follow these steps:
 3. **Restore the Dump**: Use the `pg_restore` command or a tool like pgAdmin to restore the database dump provided in this repository into the newly created database. For example:
    ```bash
    pg_restore -U <username> -d <database_name> dump_file.dump
+
+
+
+
+
+
+
+
+# Installation JPA
+# Requirements
+Make sure you have installed:
+- Java 11 or newer
+- Maven
+-IDE (IntelliJ IDEA, Eclipse, or equivalent)
+
+## Step 1: Using Spring Initializer
+1. Open [Spring Initializer](https://start.spring.io/).
+2.Configure your project with the following details:
+   - Project: Maven Project
+   - Language: Java
+   - Spring Boot: Latest stable version
+   - Project Metadata:
+     - Group: `com.Binar.Challenge4`
+     - Artifact: `Challenge4`
+     - Name: `Challenge4`
+     - Description: `Aplikasi JPA dengan Entity, Repository, dan Service`
+     - Package Name: `com.Binar.Challenge4`
+     - Packaging: Jar
+     - Java: 11
+3. Add the following dependencies:
+   - Spring Web
+   - Spring Data JPA
+   - H2 Database (or another database as needed)
+4. Click "Generate" to download the generated project.
+5. Extract the downloaded project and open it in your IDE of choice.
+
