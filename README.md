@@ -18,7 +18,7 @@ Ini adalah sekumpulan Challenge Backend Java SpringBoot, dari belajar dasar" jav
 ## Challenge 1
 Challenge 1 ini membuat sebuah aplikasi pemesanan online yang nantinya bisa di generate berupa file txt.
  - Pertama user diminta untuk menginputkan makanan yang ingin di pesan
-
+ ![Screenshot 2024-06-10 182542](https://github.com/Affu321/BinarB7_Backend-Java_challenge/assets/97963813/fea50ef0-24d4-46ea-bd63-21c7bbbad9ef)
  - Lalu di minta user untuk mengkonfirmasi pesanan tersebut
 
  - Selanjutnya ditunjukkanya detail pemesanan dan di minta unutk mengkonfirmasi pesanan yang nantinya unutk dibayar
