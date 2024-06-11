@@ -33,7 +33,7 @@ In this challenge, the restaurant ordering system is implemented using a procedu
    git clone <repository-url>
    cd <repository-directory>
 
-## Challenge 2 - Object-Oriented Approach
+## Challenge 2 
 
 In this challenge, the restaurant ordering system is refactored to use Object-Oriented Programming principles.
 
@@ -79,4 +79,3 @@ To set up and run this database, follow these steps:
 3. **Restore the Dump**: Use the `pg_restore` command or a tool like pgAdmin to restore the database dump provided in this repository into the newly created database. For example:
    ```bash
    pg_restore -U <username> -d <database_name> dump_file.dump
-##test
