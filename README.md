@@ -3,7 +3,7 @@
 - [Challenge 1](#challenge-1)
 - [Challenge 2](#challenge-2)
 - [Challenge 3](#challenge-3)
-- [Installation JPA](#InstallationJPA)
+- [Installation JPA](#Installation-JPA)
 
 # Getting Started - Challenge Binar Back-End Java Batch 7
 Ini adalah sekumpulan Challenge Backend Java SpringBoot, dari belajar dasar" java, hingga membuat sebuah restAPI untuk sebuah aplikasi Back-End dengan dokumentasi menggunakan swagger
@@ -86,8 +86,7 @@ Make sure you have installed:
 - Java 11 or newer
 - Maven
 -IDE (IntelliJ IDEA, Eclipse, or equivalent)
-
-## Step 1: Using Spring Initializer
+Step 1: Using Spring Initializer
 1. Open [Spring Initializer](https://start.spring.io/).
 2.Configure your project with the following details:
    - Project: Maven Project
