@@ -11,7 +11,7 @@
 - [License](#license)
 
 
-# Getting Started
+# Getting Started - Challenge Binar Back-End Java Batch 7
 This is a collection of SpringBoot Java Backend Challenges, from learning the basics of Java, to creating a restAPI for a Back-End application with documentation using swagger
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
@@ -127,8 +127,7 @@ In this challenge, the restaurant ordering system is refactored to use Object-Or
 - Menu items are stored in a static list initialized in the `Restaurant` class.
 - Improved structure and readability by encapsulating related functionality within classes and methods.
 
-## Features
-
+### Features
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
@@ -138,7 +137,7 @@ In this challenge, the restaurant ordering system is refactored to use Object-Or
 # Challenge 3
 In this challenge contains a PostgreSQL database dump for a project focusing on DDL (Data Definition Language) operations, database integration, and instructions on how to run it. Below is an overview of the database structure and how to execute it.
 
-## Database Structure
+### Database Structure
 The database dump includes the following tables:
 1. **merchant**: Stores information about merchants, including their name, location, and open status.
 2. **orderdetail**: Contains details of orders such as order ID, product ID, and quantity.
@@ -146,7 +145,7 @@ The database dump includes the following tables:
 4. **product**: Stores product information like product name, price, and associated merchant ID.
 5. **users**: Contains user details such as username, email address, and password.
 
-## Instructions
+### Instructions
 To set up and run this database, follow these steps:
 1. **Install PostgreSQL**: Ensure PostgreSQL is installed on your system. You can download [PostgreSql](https://jdbc.postgresql.org/)
 2. **Create a Database**: After installing PostgreSQL, create a new database. You can do this via the PostgreSQL command line or a graphical tool like pgAdmin.
@@ -157,14 +156,14 @@ To set up and run this database, follow these steps:
 # Challenge 4
 In this challenge, a JPA-based system is implemented to manage entities related to a restaurant ordering system. The implementation follows the principles of object-oriented programming and leverages Spring Data JPA for database interactions.
 
-## Key Features:
+### Key Features:
 Abstract base entity class with common audit fields.
 Entity classes representing merchants, orders, products, order details, and users.
 Service layer for managing CRUD operations and business logic.
 Custom response handling for consistent API responses.
 Pagination support for retrieving data.
 
-## Code Overview:
+### Code Overview:
 ### Abstract Base Entity:
 **AbstrackFood** is base class for common fields such as creation, deletion, and update timestamps.
 ### Entity Classes:
