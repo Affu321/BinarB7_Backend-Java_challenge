@@ -11,13 +11,90 @@
 - [License](#license)
 
 
-# Getting Started - Challenge Binar Back-End Java Batch 7
+# Getting Started
 This is a collection of SpringBoot Java Backend Challenges, from learning the basics of Java, to creating a restAPI for a Back-End application with documentation using swagger
+
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
+## Installation
+Makesure you already install :
+- Integrated Development Environments (IDEs), you can install [Idea Intellij Community](https://www.jetbrains.com/idea/download/?section=windows)
+- [Java Development Kit (JDK)](https://www.oracle.com/id/java/technologies/downloads/) (version 8 or higher)
+- [PostgreSql](https://jdbc.postgresql.org/) as a Database
+- **Maven**  as the build tool
+
+# Setting Up JPA and Spring Security in IntelliJ IDEA
+This guide will help you set up a Java project in IntelliJ IDEA with JPA (Java Persistence API) and Spring Security.
+### 1. Creating a New Project
+1. Open IntelliJ IDEA.
+2. Select `New Project` from the welcome screen.
+3. Choose `Spring Initializr` as the project type.
+4. Configure your project:
+    - Group: `com.example`
+    - Artifact: `myproject`
+    - Name: `myproject`
+    - Dependencies: `Spring Web`, `Spring Data JPA`, `Spring Security`
+    
+### 2. Configuring the Build Tool
+
+This project uses Maven as the build tool. The `pom.xml` file will be generated automatically if you use Spring Initializr. Ensure the following dependencies are in your `pom.xml` file:
+
+#### Maven (`pom.xml`)
+
+```xml
+<dependencies>
+    <!-- Spring Web -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+
+    <!-- Spring Data JPA -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-jpa</artifactId>
+    </dependency>
+
+    <!-- Spring Security -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-security</artifactId>
+    </dependency>
+
+    <!-- Database (e.g., H2 Database) -->
+    <dependency>
+        <groupId>com.h2database</groupId>
+        <artifactId>h2</artifactId>
+        <scope>runtime</scope>
+    </dependency>
+</dependencies>
+```
+## Configuration Apllication Properties :
+```
+# Database Configuration
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=password
+
+# JPA Properties
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+# Spring Security Properties (optional)
+spring.security.user.name=admin
+spring.security.user.password=admin
+```
+## How to Run
+  ```
+   git clone <repository-url>
+   cd <repository-directory>
+   ```
 
 # Challenge 1 
 In this challenge, the restaurant ordering system is implemented using a procedural programming approach.
@@ -34,14 +111,7 @@ In this challenge, the restaurant ordering system is implemented using a procedu
 - Orders and quantities are stored in `ArrayList` objects.
 - The total price is calculated dynamically as items are added to the order.
 - Upon order confirmation, a receipt is generated and saved to a file.
-- ## How to Run
-
-1. **Clone the Repository:**
-   ```sh
-   git clone <repository-url>
-   cd <repository-directory>
-## Challenge 2 - Object-Oriented Approach
-
+## Challenge 2
 In this challenge, the restaurant ordering system is refactored to use Object-Oriented Programming principles.
 
 ### Key Features:
@@ -57,13 +127,6 @@ In this challenge, the restaurant ordering system is refactored to use Object-Or
 - Menu items are stored in a static list initialized in the `Restaurant` class.
 - Improved structure and readability by encapsulating related functionality within classes and methods.
 
-## How to Run
-
-1. **Clone the Repository:**
-   ```sh
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
@@ -85,62 +148,30 @@ The database dump includes the following tables:
 
 ## Instructions
 To set up and run this database, follow these steps:
-1. **Install PostgreSQL**: Ensure PostgreSQL is installed on your system. You can download it from the [official website](https://www.postgresql.org/download/).
+1. **Install PostgreSQL**: Ensure PostgreSQL is installed on your system. You can download [PostgreSql](https://jdbc.postgresql.org/)
 2. **Create a Database**: After installing PostgreSQL, create a new database. You can do this via the PostgreSQL command line or a graphical tool like pgAdmin.
 3. **Restore the Dump**: Use the `pg_restore` command or a tool like pgAdmin to restore the database dump provided in this repository into the newly created database. For example:
    ```bash
    pg_restore -U <username> -d <database_name> dump_file.dump
- # Challenge 4
-In this challenge create a JPA Aplication (DDl from ERD + CRUD) with entities, repositories, and service, before you clone this challenge, makesure you already set all the requirements JPA Spring Boot
-### Installation JPA
-Make sure you have installed:
-- Java 11 or newer
-- Maven
--IDE (IntelliJ IDEA, Eclipse, or equivalent)
-
-### Step 1: Using Spring Initializer
-1. Open [Spring Initializer](https://start.spring.io/).
-2.Configure your project with the following details:
-   - Project: Maven Project
-   - Language: Java
-   - Spring Boot: Latest stable version
-   - Project Metadata:
-     - Group: `com.Binar.(you can customize)`
-     - Artifact: `(you can customize)`
-     - Name: `(you can customize)`
-     - Description: `Aplikasi JPA dengan Entity, Repository, dan Service`
-     - Package Name: `com.Binar.(you can customize)`
-     - Packaging: Jar
-     - Java: 11
-3. Add the following dependencies:
-   - Spring Web
-   - Spring Data JPA
-   - H2 Database (or another database as needed)
-4. Click "Generate" to download the generated project.
-5. Extract the downloaded project and open it in your IDE of choice.
-
-### Langkah 2: Konfigurasi JPA
-
-1. Buka file `application.properties` yang ada di direktori `src/main/resources`.
-2. Tambahkan konfigurasi berikut untuk mengatur koneksi database dan JPA:
-
-   ```properties
-   # Konfigurasi Database
-   spring.datasource.url=jdbc:h2:mem:testdb
-   spring.datasource.driverClassName=org.h2.Driver
-   spring.datasource.username=
-   spring.datasource.password=
    
-   # Konfigurasi JPA
-   spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
-   spring.jpa.hibernate.ddl-auto=update
-   spring.jpa.show-sql=true
-Berikut Dependency yang anda perlu tambahkan untuk menggunakan JPA Spring Boot
-   ```properties
-   <dependencies>
-  <dependency>
-    <groupId>org.springframework.data</groupId>
-    <artifactId>spring-data-jpa</artifactId>
-  </dependency>
-<dependencies>
-   ```
+# Challenge 4
+In this challenge, a JPA-based system is implemented to manage entities related to a restaurant ordering system. The implementation follows the principles of object-oriented programming and leverages Spring Data JPA for database interactions.
+
+## Key Features:
+Abstract base entity class with common audit fields.
+Entity classes representing merchants, orders, products, order details, and users.
+Service layer for managing CRUD operations and business logic.
+Custom response handling for consistent API responses.
+Pagination support for retrieving data.
+
+## Code Overview:
+### Abstract Base Entity:
+**AbstrackFood** is base class for common fields such as creation, deletion, and update timestamps.
+### Entity Classes:
+- **Merchant:** Represents a merchant with fields like id, merchant_name, merchant_location, and products.
+- **Order:** Represents an order with fields like id, order_time, destination_address, completed, and associated user.
+- **OrderDetail:** Represents order details with fields like id, quantity, total_price, and associated order and product.
+- **Product:** Represents a product with fields like id, product_name, price, and associated merchant.
+- **User:** Represents a user with fields like id, username, emailAddress, and password.
+
+    Each service class (MerchantServiceImpl, OrderServiceImpl, ProductServiceImpl, UserServiceImpl) provides CRUD operations along with pagination support for their respective entities (Merchant, Order, Product, User).
