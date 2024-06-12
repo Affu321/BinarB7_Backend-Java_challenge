@@ -11,7 +11,7 @@
 - [License](#license)
 
 
-# Getting Started - Challenge Binar Back-End Java Batch 7
+# Getting Started 
 This is a collection of SpringBoot Java Backend Challenges, from learning the basics of Java, to creating a restAPI for a Back-End application with documentation using swagger
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
@@ -174,3 +174,40 @@ Pagination support for retrieving data.
 - **User:** Represents a user with fields like id, username, emailAddress, and password.
 
     Each service class (MerchantServiceImpl, OrderServiceImpl, ProductServiceImpl, UserServiceImpl) provides CRUD operations along with pagination support for their respective entities (Merchant, Order, Product, User).
+
+# Challenge 5 
+### Key Features:
+- **Merchant Controller:**
+  - Manages CRUD operations for merchants.
+  - Provides endpoints for retrieving, adding, updating, and deleting merchants.
+  - Supports fetching a single merchant by ID.
+
+- **Order Controller:**
+  - Handles CRUD operations for orders.
+  - Offers functionalities to retrieve all orders, add new orders, update existing orders, delete orders, and fetch a single order by ID.
+
+- **Product Controller:**
+  - Manages products within the system.
+  - Provides endpoints for fetching all products, adding new products, updating existing products, deleting products, and retrieving a single product by ID.
+
+- **User Controller:**
+  - Facilitates user management functionalities.
+  - Offers endpoints for fetching all users, adding new users, updating existing users, deleting users, and retrieving a single user by ID.
+
+## Code Review:
+
+- Each controller follows RESTful conventions with clear and descriptive endpoint paths.
+- Annotations such as `@RestController` and `@RequestMapping` are appropriately used to define controller components and base URL paths.
+- The controllers utilize various HTTP methods (`GET`, `POST`, `PUT`, `DELETE`) to perform CRUD operations.
+- Request bodies (`@RequestBody`) and path variables (`@PathVariable`) are effectively utilized for handling input data and dynamic parts of the URL.
+- Responses are returned as `ResponseEntity` objects, allowing precise control over HTTP status codes and response bodies.
+- Interaction with service classes ensures separation of concerns and modularity in the codebase.
+
+### Explanation of InvoiceService Methods:
+**InvoiceService** is responsible for generating invoices and reports for merchants:
+
+- **generateInvoice:**
+  - This method creates a PDF file containing transaction details of user orders, serving as an invoice for the purchases made.
+
+- **generateReportingMerchant:**
+  - This method generates reports detailing the merchant's income over a specific period.
