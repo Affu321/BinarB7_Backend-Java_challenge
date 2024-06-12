@@ -12,13 +12,14 @@
 
 
 # Getting Started - Challenge Binar Back-End Java Batch 7
-Ini adalah sekumpulan Challenge Backend Java SpringBoot, dari belajar dasar" java, hingga membuat sebuah restAPI untuk sebuah aplikasi Back-End dengan dokumentasi menggunakan swagger
-
+This is a collection of SpringBoot Java Backend Challenges, from learning the basics of Java, to creating a restAPI for a Back-End application with documentation using swagger
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 
-## Challenge 1 
+# Challenge 1 
 In this challenge, the restaurant ordering system is implemented using a procedural programming approach.
 
 ### Key Features:
@@ -134,10 +135,7 @@ Make sure you have installed:
    spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
    spring.jpa.hibernate.ddl-auto=update
    spring.jpa.show-sql=true
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
-
+Berikut Dependency yang anda perlu tambahkan untuk menggunakan JPA Spring Boot
    ```properties
    <dependencies>
   <dependency>
