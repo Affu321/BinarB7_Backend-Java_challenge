@@ -1,13 +1,13 @@
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Challenge 1 ](#Challenge1)
-- [Challenge 2](#Challenge2)
-- [Challenge 3](#Challenge3)
-- [Challenge 4](#Challenge4)
-- [Challenge 5](#Challenge5)
-- [Challenge 6](#Challenge6)
-- [Installation JPA](#InstallationJPA)
+- [Challenge 1 ](#Challenge-1)
+- [Challenge 2](#Challenge-2)
+- [Challenge 3](#Challenge-3)
+- [Challenge 4](#Challenge-4)
+- [Challenge 5](#Challenge-5)
+- [Challenge 6](#Challenge-6)
+- [Installation JPA](#Installation-JPA)
 - [License](#license)
 
 
