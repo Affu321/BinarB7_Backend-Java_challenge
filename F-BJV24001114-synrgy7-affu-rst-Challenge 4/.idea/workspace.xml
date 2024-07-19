@@ -5,42 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f70aa2c-e0aa-4976-984a-e5b8502262a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Controller/oauth/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Controller/oauth/RegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Controller/oauth/UserOauthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Controller/oauth/forgetpassword/ForgetPasswordController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Controller/oauth/tymeleaf/RegisterConfirm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Entity/RegisterModel/RegisterModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Entity/oauth/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Entity/oauth/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Entity/oauth/RolePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Entity/oauth/UserOauth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Entity/oauth/request/ResetPasswordModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Repository/oauth/ClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Repository/oauth/RolePathRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Repository/oauth/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Repository/oauth/UserOauthRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/Email/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/oauth/DatabaseSeeder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/oauth/Oauth2ClientDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/oauth/Oauth2UserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/oauth/UserOauthService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/oauth/impl/UserOauthServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/config/configoauth/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/config/configoauth/CorsOriginConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/config/configoauth/Oauth2AccessTokenConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/config/configoauth/Oauth2AuthorizationServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/config/configoauth/Oauth2ResourceServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/config/configoauth/WebSecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/utils/EmailTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/utils/SimpleStringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/logs/log_2024-Jun-09.log" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/logs/log_2024-Jun-09.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/impl/JesperReportImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/impl/JesperReportImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/Service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/utils/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/src/main/java/com/Binar/Challenge4/utils/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 1/F-BJV24001114-synrgy7-affu-rst-Challenge 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 2/F-BJV24001114-synrgy7-affu-rst-Challenge 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 3/BinarChallengeCoy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/ConfigOauth/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/ConfigOauth/CorsOriginConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/ConfigOauth/Oauth2AccessTokenConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/ConfigOauth/Oauth2AuthorizationServerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/ConfigOauth/Oauth2ResourceServerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/ConfigOauth/WebSecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Controller/Email/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Controller/oauth/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Controller/oauth/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Controller/oauth/UserOauthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Controller/oauth/forgetpassword/ForgetPasswordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Controller/oauth/tymeleaf/RegisterConfirm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/DTO/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Repository/oauth/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Repository/oauth/RolePathRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Repository/oauth/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Repository/oauth/UserOauthRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Service/oauth/DatabaseSeeder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Service/oauth/Oauth2ClientDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Service/oauth/Oauth2UserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Service/oauth/UserOauthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Service/oauth/oauthimpl/UserOauthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Utils/EmailTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/Utils/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/entity/AbstrackUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/entity/RegisterModel/RegisterModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/entity/oauth/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/entity/oauth/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/entity/oauth/RolePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 7/src/main/java/com/challenge7user/challenge7user/entity/oauth/UserOauth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 2/struk_pembelian.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 2/struk_pembelian.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/1/2/12033df1e4b1fae063da2fbdcab81e7e005d02d0" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/1/2/12033df1e4b1fae063da2fbdcab81e7e005d02d0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/1/e/1e14b42494704528fd01fc10cc6335ff9540c6e0" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/1/e/1e14b42494704528fd01fc10cc6335ff9540c6e0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/3/4/344a69ccc38a49b1a979d01c5a64365188f18233" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/4/a/4a6b241278bad102b5bb42a626eb20f21b377883" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/4/b/4b618df481a0147283aaacb4437e43079af5d81f" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/4/b/4b618df481a0147283aaacb4437e43079af5d81f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/7/5/756f5b31c46bfcdfeae2b71c992790ebc0ebdff8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/7/f/7fb5c4f52426cda17b33b52bec3f300561176518" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/8/b/8bc11934ced1d3dfacc24ed64eb24cbd253b89d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/securityhotspotstore/3/4/344a69ccc38a49b1a979d01c5a64365188f18233" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/securityhotspotstore/4/a/4a6b241278bad102b5bb42a626eb20f21b377883" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/securityhotspotstore/7/5/756f5b31c46bfcdfeae2b71c992790ebc0ebdff8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/securityhotspotstore/7/f/7fb5c4f52426cda17b33b52bec3f300561176518" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/securityhotspotstore/8/b/8bc11934ced1d3dfacc24ed64eb24cbd253b89d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 5/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/logs/log_2024-Jun-10.log" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/logs/log_2024-Jun-10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Challenge4Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Challenge4Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Controller/MerchantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Controller/MerchantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Service/MerchantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Service/MerchantService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Service/impl/MerchantServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/Service/impl/MerchantServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/config/configoauth/Oauth2ResourceServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/java/com/Binar/Challenge4/config/configoauth/Oauth2ResourceServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../F-BJV24001114-synrgy7-affu-rst-Challenge 6/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,19 +96,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Challenge4Application.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Affu/Downloads/B7 Binar_Backend Java/F-BJV24001114-synrgy7-affu-rst-Challenge 4&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Challenge4Application.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Affu/Downloads/ChallengeBinar/F-BJV24001114-synrgy7-affu-rst-Challenge 4",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Challenge4Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Binar.Challenge4.Challenge4Application" />
@@ -91,19 +120,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="F-BJV24001114-synrgy7-affu-rst-Challenge 4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="F-BJV24001114-synrgy7-affu-rst-Challenge 4" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

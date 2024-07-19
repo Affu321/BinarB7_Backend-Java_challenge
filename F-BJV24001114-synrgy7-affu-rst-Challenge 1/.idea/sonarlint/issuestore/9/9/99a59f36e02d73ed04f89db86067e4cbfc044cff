@@ -1,0 +1,65 @@
+
+d
+java:S11929"IDefine a constant instead of duplicating this literal "Es Jeruk" 3 times.( ’¦¡øÿÿÿÿ
+b
+java:S11925"GDefine a constant instead of duplicating this literal "Es Teh" 3 times.(¶’íÙüÿÿÿÿ
+d
+java:S1192k"IDefine a constant instead of duplicating this literal " | Qty: " 3 times.(ëã›Öøÿÿÿÿ
+f
+java:S1192-"KDefine a constant instead of duplicating this literal "Mie Goreng" 3 times.(¬ÄÅûÿÿÿÿ
+i
+java:S1192k"NDefine a constant instead of duplicating this literal " | Total: Rp." 3 times.(ëã›Öøÿÿÿÿ
+g
+java:S11921"LDefine a constant instead of duplicating this literal "Nasi + Ayam" 3 times.(³Ø£¨øÿÿÿÿ
+g
+java:S1192)"LDefine a constant instead of duplicating this literal "Nasi Goreng" 3 times.(Ï¢şÕúÿÿÿÿ
+o
+java:S1192Q"YDefine a constant instead of duplicating this literal "========================" 3 times.(™²“õ
+0
+java:S1220""Move this file to a named package.
+^
+java:S2095x"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(°Å–
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘
+E	java:S106"+Replace this use of System.out by a logger.(Åá—•şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ó®üè
+E	java:S106"+Replace this use of System.out by a logger.(Åá—•şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(”Ö”Àşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(–¥¸Ò
+E	java:S106"+Replace this use of System.out by a logger.(ÅÕèşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Áœ„
+@	java:S106"+Replace this use of System.out by a logger.(„‹ü
+@	java:S106"+Replace this use of System.out by a logger.(ŠĞ…É
+@	java:S106"+Replace this use of System.out by a logger.(²¾Œ÷
+E	java:S106"+Replace this use of System.out by a logger.(·ÓËşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­–´½øÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(á‹²ç
+E	java:S106<"+Replace this use of System.out by a logger.(ÒîØşşÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(›÷Ş
+@	java:S106C"+Replace this use of System.out by a logger.(ä¹¿“
+@	java:S106D"+Replace this use of System.out by a logger.(ñİÃ´
+@	java:S106E"+Replace this use of System.out by a logger.(ä¹¿“
+E	java:S106F"+Replace this use of System.out by a logger.(ì±¨äşÿÿÿÿ
+@	java:S106G"+Replace this use of System.out by a logger.(¸£ÿ
+@	java:S106H"+Replace this use of System.out by a logger.(÷ÅÏ‡
+@	java:S106Q"+Replace this use of System.out by a logger.(™²“õ
+E	java:S106R"+Replace this use of System.out by a logger.(âµºçÿÿÿÿÿ
+@	java:S106S"+Replace this use of System.out by a logger.(™²“õ
+@	java:S106T"+Replace this use of System.out by a logger.(ÅÅ
+6	java:S131Y""Add a default case to this switch.(€ä¿;
+E	java:S106k"+Replace this use of System.out by a logger.(ëã›Öøÿÿÿÿ
+@	java:S106m"+Replace this use of System.out by a logger.(ê“‰›
+@	java:S106n"+Replace this use of System.out by a logger.(™²“õ
+E	java:S106o"+Replace this use of System.out by a logger.(Ÿ¥ëÅüÿÿÿÿ
+E	java:S106p"+Replace this use of System.out by a logger.(çïñÉúÿÿÿÿ
+@	java:S106q"+Replace this use of System.out by a logger.(Òß—ç
+E	java:S106r"+Replace this use of System.out by a logger.(·ÓËşÿÿÿÿ
+6	java:S131""Add a default case to this switch.(€ä¿;
+F	java:S106’"+Replace this use of System.out by a logger.(—ÒĞÙûÿÿÿÿ
+A	java:S106—"+Replace this use of System.out by a logger.(¢‹»†
+A	java:S106™"+Replace this use of System.out by a logger.(§ûù†
+F	java:S106 "+Replace this use of System.out by a logger.(£Ê¦Üøÿÿÿÿ
+A	java:S106¤"+Replace this use of System.out by a logger.(ÂÀ÷±
+A	java:S106§"+Replace this use of System.out by a logger.(Í½Á­
+İ
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 158 to 64, Complexity from 27 to 14, Nesting Level from 5 to 2, Number of Variables from 24 to 6.(Çµí‘

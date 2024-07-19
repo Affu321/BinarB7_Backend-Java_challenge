@@ -55,7 +55,7 @@ public class Oauth2ResourceServerConfiguration extends ResourceServerConfigurerA
                 .formLogin()
                 .permitAll();
 
-        // Tambahkan logging
+
         http.addFilterBefore(new OncePerRequestFilter() {
             @Override
             protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain)

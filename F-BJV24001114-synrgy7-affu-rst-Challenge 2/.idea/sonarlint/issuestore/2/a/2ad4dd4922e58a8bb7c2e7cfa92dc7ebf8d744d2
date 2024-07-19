@@ -1,0 +1,40 @@
+
+d
+java:S1192c"IDefine a constant instead of duplicating this literal " | Qty: " 3 times.(æïÕƒıÿÿÿÿ
+i
+java:S1192c"NDefine a constant instead of duplicating this literal " | Total: Rp." 3 times.(æïÕƒıÿÿÿÿ
+p
+java:S1192Z"ZDefine a constant instead of duplicating this literal "========================
+" 4 times.(Óª¨Ò
+n	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(è‡‰¬
+0
+java:S1220""Move this file to a named package.
+^
+java:S2095v"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(°Å–
+k
+java:S3655a"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(°€œ­ıÿÿÿÿ
+k
+java:S3655|"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(°€œ­ıÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÀÏ‚ñüÿÿÿÿ
+?	java:S106'"+Replace this use of System.out by a logger.(ĞşÎ[
+E	java:S106."+Replace this use of System.out by a logger.(£Ê¦Üøÿÿÿÿ
+E	java:S1063"+Replace this use of System.out by a logger.(éåğüÿÿÿÿ
+@	java:S106>"+Replace this use of System.out by a logger.(ä¹¿“
+@	java:S106?"+Replace this use of System.out by a logger.(ñİÃ´
+@	java:S106@"+Replace this use of System.out by a logger.(ä¹¿“
+@	java:S106A"+Replace this use of System.out by a logger.(û£Üì
+@	java:S106B"+Replace this use of System.out by a logger.(¸£ÿ
+@	java:S106C"+Replace this use of System.out by a logger.(÷ÅÏ‡
+?	java:S106G"+Replace this use of System.out by a logger.(Ñûš
+@	java:S106T"+Replace this use of System.out by a logger.( îÆ—
+@	java:S106o"+Replace this use of System.out by a logger.(Ñïˆı
+E	java:S106"+Replace this use of System.out by a logger.(—ÒĞÙûÿÿÿÿ
+A	java:S106„"+Replace this use of System.out by a logger.(¢‹»†
+A	java:S106†"+Replace this use of System.out by a logger.(§ûù†
+F	java:S106‡"+Replace this use of System.out by a logger.(òÇ‡§ûÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(£Ê¦Üøÿÿÿÿ
+A	java:S106‘"+Replace this use of System.out by a logger.(ÂÀ÷±
+A	java:S106”"+Replace this use of System.out by a logger.(Í½Á­
+â
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 115 to 64, Complexity from 19 to 14, Nesting Level from 5 to 2, Number of Variables from 27 to 6.(ÀÏ‚ñüÿÿÿÿ

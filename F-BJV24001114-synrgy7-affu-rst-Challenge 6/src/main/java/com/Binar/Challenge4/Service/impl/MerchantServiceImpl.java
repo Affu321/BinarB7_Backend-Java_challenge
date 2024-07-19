@@ -13,8 +13,10 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 import org.thymeleaf.util.StringUtils;
-
 import java.util.*;
+import org.springframework.scheduling.annotation.Async;
+import org.springframework.stereotype.Service;
+import java.util.concurrent.CompletableFuture;
 
 @Service
 public class MerchantServiceImpl implements MerchantService {
@@ -26,31 +28,34 @@ public class MerchantServiceImpl implements MerchantService {
     private Response response;
 
     @Override
-    public Optional<List<Merchant>> getAllMerchant() {
+    @Async
+    public CompletableFuture<Optional<List<Merchant>>> getAllMerchant() {
         List<Merchant> merchantList = merchantRepository.findAll();
-        return Optional.ofNullable(merchantList.isEmpty() ? null : merchantList);
+        return CompletableFuture.completedFuture(Optional.ofNullable(merchantList.isEmpty() ? null : merchantList));
     }
 
     @Override
-    public Map<String, Object> insertMerchant(Merchant merchant) {
+    @Async
+    public CompletableFuture<Map<String, Object>> insertMerchant(Merchant merchant) {
         try {
             if (response.checkNull(merchant.getMerchant_name()) || StringUtils.isEmpty(merchant.getMerchant_name())) {
-                return response.eror("MerchantName is required.", 402);
+                return CompletableFuture.completedFuture(response.eror("MerchantName is required.", 402));
             }
             merchant.setOpen(merchant.isOpen());
             Merchant savedMerchant = merchantRepository.save(merchant);
-            return response.sucsess(savedMerchant);
+            return CompletableFuture.completedFuture(response.sucsess(savedMerchant));
         } catch (Exception e) {
-            return response.eror("An error occurred while saving merchant.", 500);
+            return CompletableFuture.completedFuture(response.eror("An error occurred while saving merchant.", 500));
         }
     }
 
     @Override
-    public Map<String, Object> updateMerchant(UUID merchantId, Merchant merchant) {
+    @Async
+    public CompletableFuture<Map<String, Object>> updateMerchant(UUID merchantId, Merchant merchant) {
         try {
             Optional<Merchant> existingMerchant = Optional.ofNullable(merchantRepository.getByIdMerchant(merchantId));
             if (!existingMerchant.isPresent()) {
-                return response.eror("id not found", 404);
+                return CompletableFuture.completedFuture(response.eror("id not found", 404));
             }
             Merchant edit = existingMerchant.get();
             edit.setMerchant_name(merchant.getMerchant_name());
@@ -58,40 +63,43 @@ public class MerchantServiceImpl implements MerchantService {
             edit.setOpen(merchant.isOpen());
 
             Merchant updatedMerchant = merchantRepository.save(edit);
-            return response.sucsess(updatedMerchant);
+            return CompletableFuture.completedFuture(response.sucsess(updatedMerchant));
         } catch (Exception e) {
-            return response.eror(e.getMessage(), 500);
+            return CompletableFuture.completedFuture(response.eror(e.getMessage(), 500));
         }
     }
 
     @Override
-    public Map<String, Object> deleteMerchant(UUID merchantId) {
+    @Async
+    public CompletableFuture<Map<String, Object>> deleteMerchant(UUID merchantId) {
         try {
             Optional<Merchant> findMerchantOptional = Optional.ofNullable(merchantRepository.getByIdMerchant(merchantId));
             if (!findMerchantOptional.isPresent()) {
-                return response.eror("id not found", 404);
+                return CompletableFuture.completedFuture(response.eror("id not found", 404));
             }
             Merchant merchant = findMerchantOptional.get();
             merchantRepository.delete(merchant);
-            return response.sucsess("data berhasil dihapus");
+            return CompletableFuture.completedFuture(response.sucsess("data berhasil dihapus"));
         } catch (DataAccessException e) {
-            return response.eror("An error occurred while deleting merchant", 500);
+            return CompletableFuture.completedFuture(response.eror("An error occurred while deleting merchant", 500));
         }
     }
 
     @Override
-    public Map<String, Object> getMerchantById(UUID id) {
+    @Async
+    public CompletableFuture<Map<String, Object>> getMerchantById(UUID id) {
         Optional<Merchant> getId = merchantRepository.findById(id);
         if (!getId.isPresent()) {
-            return response.eror("id not found", 404);
+            return CompletableFuture.completedFuture(response.eror("id not found", 404));
         }
-        return response.sucsess(getId.get());
+        return CompletableFuture.completedFuture(response.sucsess(getId.get()));
     }
 
     @Override
-    public Map<String, Object> merchantPagination(int page, int size) {
+    @Async
+    public CompletableFuture<Map<String, Object>> merchantPagination(int page, int size) {
         Pageable showMerchant = PageRequest.of(page, size, Sort.by("merchantname").descending());
         Page<Merchant> list = merchantRepository.getAllDataPage(showMerchant);
-        return response.sucsess(list);
+        return CompletableFuture.completedFuture(response.sucsess(list));
     }
 }

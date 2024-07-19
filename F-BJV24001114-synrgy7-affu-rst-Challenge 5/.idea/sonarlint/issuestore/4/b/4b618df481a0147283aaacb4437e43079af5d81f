@@ -1,15 +1,15 @@
 
-w
-java:S3740b"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8éªù€€2J$9e8bb1fe-c9b1-4c6e-a79e-929f442f7fa3
-w
-java:S3740b"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8êªù€€2J$dbc5d8b3-7bee-4bd3-971a-1fcf8bc402ac
-˜	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûÿ–ãÿÿÿÿÿ8ëªù€€2J$6b93eda6-829c-41f3-9e8e-e609db055674
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¥¡ÃÿÿÿÿÿJ$7eceaf3e-7e56-45c5-b368-90aa4538889c
-~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7bfb9688-53b7-4289-a5fb-5849548894d9
-~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7fcb43cd-b05a-4679-801b-9c70c4905b84
-
-java:S1854b"7Remove this useless assignment to local variable "map".(™Ş­Ôşÿÿÿÿ8«ù€€2J$579ea617-4ed5-483d-8048-b89f7fa0ab5e
-p
-java:S1481b"(Remove this unused "map" local variable.(™Ş­Ôşÿÿÿÿ8’«ù€€2J$d01b221a-4ef2-4ecd-9781-3b78ad54a87b
+Q
+java:S3740b"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8Â›¡…ƒ2
+Q
+java:S3740b"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ8Â›¡…ƒ2
+r	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûÿ–ãÿÿÿÿÿ8Ä›¡…ƒ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¥¡Ãÿÿÿÿÿ8Î›¡…ƒ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8³œ¡…ƒ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8³œ¡…ƒ2
+Y
+java:S1854b"7Remove this useless assignment to local variable "map".(™Ş­Ôşÿÿÿÿ8İœ¡…ƒ2
+J
+java:S1481b"(Remove this unused "map" local variable.(™Ş­Ôşÿÿÿÿ8äœ¡…ƒ2

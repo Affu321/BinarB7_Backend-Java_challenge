@@ -1,0 +1,51 @@
+
+Q
+java:S3740'"/Provide the parametrized type for this generic.(¸¡–„ÿÿÿÿÿ8¶¢¡…ƒ2
+Q
+java:S3740("/Provide the parametrized type for this generic.(¡•Ÿ‡úÿÿÿÿ8¸¢¡…ƒ2
+Q
+java:S3740+"/Provide the parametrized type for this generic.(À¨”…ùÿÿÿÿ8»¢¡…ƒ2
+Q
+java:S3740,"/Provide the parametrized type for this generic.(âÏ’ßúÿÿÿÿ8»¢¡…ƒ2
+L
+java:S37400"/Provide the parametrized type for this generic.(Åô¤‘8»¢¡…ƒ2
+Q
+java:S37401"/Provide the parametrized type for this generic.(ßÓ©ùÿÿÿÿ8¼¢¡…ƒ2
+L
+java:S37402"/Provide the parametrized type for this generic.(ôÆâ8¼¢¡…ƒ2
+Q
+java:S37405"/Provide the parametrized type for this generic.(ÈÕ›Üúÿÿÿÿ8¼¢¡…ƒ2
+Q
+java:S37406"/Provide the parametrized type for this generic.(½¾¯Ìøÿÿÿÿ8¼¢¡…ƒ2
+K
+java:S37409"/Provide the parametrized type for this generic.(¯Èc8¼¢¡…ƒ2
+Q
+java:S3740:"/Provide the parametrized type for this generic.(¥¿¸ùıÿÿÿÿ8¼¢¡…ƒ2
+Q
+java:S3740A"/Provide the parametrized type for this generic.(½œ¤™øÿÿÿÿ8¼¢¡…ƒ2
+L
+java:S3740O"/Provide the parametrized type for this generic.(¦íõ½8¼¢¡…ƒ2
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¡•Ÿ‡úÿÿÿÿ8½¢¡…ƒ2
+v
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÆâ8¾¢¡…ƒ2
+{
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¾¯Ìøÿÿÿÿ8¾¢¡…ƒ2
+{
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¿¸ùıÿÿÿÿ8¾¢¡…ƒ2
+v
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦íõ½8¿¢¡…ƒ2
+r	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½œ¤™øÿÿÿÿ8À¢¡…ƒ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š±ÿ8Á¢¡…ƒ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ó¢¡…ƒ2
+_
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8Ó¢¡…ƒ2
+_
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ó¢¡…ƒ2
+]
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(Åô¤‘8â¢¡…ƒ2
+b
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.(÷éå¹úÿÿÿÿ8ç¢¡…ƒ2
+K
+java:S1128".Remove this unused import 'javax.persistence'.(¬£şç8í¢¡…ƒ2

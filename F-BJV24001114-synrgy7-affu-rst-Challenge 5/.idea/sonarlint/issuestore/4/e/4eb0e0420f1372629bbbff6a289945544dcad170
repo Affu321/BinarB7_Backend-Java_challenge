@@ -1,0 +1,25 @@
+
+p
+java:S3740f"/Provide the parametrized type for this generic.(™Ş­ÔşÿÿÿÿJ$4e911e7f-b15e-4a66-83c4-031a32ec7e7a
+p
+java:S3740f"/Provide the parametrized type for this generic.(™Ş­ÔşÿÿÿÿJ$5cf2a3e2-495d-4d5a-9349-5798f5cf9bf5
+‰
+java:S1192L"MDefine a constant instead of duplicating this literal "id not found" 3 times.(Ä³ÖJ$12d08477-81c4-4e2a-8d45-70169ad9cae2
+‘	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûÿ–ãÿÿÿÿÿJ$ea1ed3b9-2d55-4668-b065-6b218cf3e907
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¥¡ÃÿÿÿÿÿJ$d49e9c18-fb72-4a7f-ad69-caa2c80ec583
+™
+java:S36554"XCall "chekMerchant.isPresent()" or "!chekMerchant.isEmpty()" before accessing the value.(€ŒÆúÿÿÿÿÿJ$683e0b09-19ac-4e26-a615-ace48dc1ec9a
+Ÿ
+java:S36554"^Call "existingProduct.isPresent()" or "!existingProduct.isEmpty()" before accessing the value.(€ŒÆúÿÿÿÿÿJ$9ce7f07c-7bca-4b4a-b355-9633502bfe43
+…
+java:S2583G"DChange this condition so that it does not always evaluate to "false"(´ğøıÿÿÿÿJ$9ef6df36-6749-46d7-9372-5e6e1c8f5873
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$fae50057-903d-4962-a8ab-8b20590244bd
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$8d2762ca-e563-4856-a63c-9b006a836b80
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$fd68b931-6086-4433-ac7d-ae1d97dbb7f6
+x
+java:S1854f"7Remove this useless assignment to local variable "map".(™Ş­ÔşÿÿÿÿJ$cd98543d-97e7-489e-aeb4-bbc600ccbfd4
+i
+java:S1481f"(Remove this unused "map" local variable.(™Ş­ÔşÿÿÿÿJ$5f8a6358-1070-4b34-a99f-b38a79aa36f3

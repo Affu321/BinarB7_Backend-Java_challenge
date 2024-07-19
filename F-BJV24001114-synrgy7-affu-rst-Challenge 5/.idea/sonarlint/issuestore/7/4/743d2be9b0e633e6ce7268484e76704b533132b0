@@ -1,0 +1,25 @@
+
+p
+java:S3740~"/Provide the parametrized type for this generic.(™Ş­ÔşÿÿÿÿJ$be2cb07e-fd48-4680-83f8-15c4fea8f789
+p
+java:S3740~"/Provide the parametrized type for this generic.(™Ş­ÔşÿÿÿÿJ$30e53d1e-582d-40ae-b3cd-19baece7d544
+‰
+java:S1192d"MDefine a constant instead of duplicating this literal "id not found" 3 times.(Ä³ÖJ$9468c559-5d76-43eb-bc8f-95a56f162799
+’	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûÿ–ãÿÿÿÿÿJ$be166355-218f-46ad-aaa6-03e3baef4afd
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚¥¡ÃÿÿÿÿÿJ$d6b3a168-aed8-44b4-8ad5-1a1743267341
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$3ff5f48c-c21a-474e-b830-d69c509bacaf
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞJ$84abe6ee-7ea0-41a9-9e0a-34aa455736a5
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞJ$31d9794e-f1f2-46b6-ac25-df44cd2aaf99
+~
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞJ$514b06f4-12fc-4110-b8a6-179f5009980a
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞJ$3fc0a072-d72c-439f-928a-0a6fb6af2ec7
+x
+java:S1854~"7Remove this useless assignment to local variable "map".(™Ş­ÔşÿÿÿÿJ$6376cdf9-4d54-4fe8-9ec1-99c7fa6337cb
+i
+java:S1481~"(Remove this unused "map" local variable.(™Ş­ÔşÿÿÿÿJ$c63c4562-33f3-4844-8f57-f93abd32ca41
+u
+java:S1128"4Remove this unused import 'java.security.Timestamp'.(’ïĞ¦üÿÿÿÿJ$779cb473-3cdd-4a15-a8c3-981f5b69aad2

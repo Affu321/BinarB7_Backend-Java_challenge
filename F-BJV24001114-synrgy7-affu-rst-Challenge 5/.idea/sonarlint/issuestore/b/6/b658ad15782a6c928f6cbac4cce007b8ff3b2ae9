@@ -1,0 +1,13 @@
+
+Œ	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø†çJ$b7bcae90-d621-4a1e-b149-225cdcbe9249
+Œ	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‡ªñJ$511b5c39-de96-48c8-b20f-2c9c5f15c897
+Œ	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´şÑÛJ$b0292012-c554-4203-8a06-844d9652d70a
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¢Á÷J$95dba2b8-9926-436d-84c4-3c3bd78fd00f
+—	java:S116"WRename this field "created_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·º¾õşÿÿÿÿJ$bebfaad7-cd13-4e0c-bf0e-931d2ed9a076
+—	java:S116!"WRename this field "deleted_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ò§¾úÿÿÿÿJ$0a7c736e-0c86-4972-a901-f7e56b5fb13e
+‰	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öàÏÊJ$ba8787e5-e354-4044-b70f-a1ac656fb511
+‰	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø†çJ$80845f4b-7798-493f-98f7-d1bcfca0e7b5
+‰	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¯ÑïJ$6d7be8c7-994e-4420-b04d-7d6c649d0fd7
+‰	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‡ªñJ$1e22cba4-a2c7-45f4-aea7-25d1439ab047
+‰	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò³¡J$aaab8d24-7cf0-44af-a2df-13a08f34fa35
+‰	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´şÑÛJ$052b6dc3-1862-41ba-96f6-a5fa8c1be721
