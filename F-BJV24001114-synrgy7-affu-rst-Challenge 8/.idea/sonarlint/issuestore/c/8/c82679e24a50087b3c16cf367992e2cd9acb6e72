@@ -1,0 +1,16 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁžÄŒýÿÿÿÿJ$28d5b73d-c88b-4b24-942f-9a1021a20158
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄÞJ$a92e9cbc-8c8f-42fa-a651-94ba00206663
+~
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄÞJ$802c5c74-a17d-4653-9860-2e3e7290bc4c
+~
+java:S6813)"BRemove this field injection and use constructor injection instead.(êæÄÞJ$6d58a8fc-7c53-4c5c-bd99-8b4ea0135fd0
+~
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄÞJ$4c1beeda-2ab4-4f32-8dba-20c76acfc763
+~
+java:S6813/"BRemove this field injection and use constructor injection instead.(êæÄÞJ$e95e5dc9-abba-48ee-814f-e4e74acd895b
+h
+java:S1068"'Remove this unused "TAG" private field.(Î¹«ÂùÿÿÿÿJ$bacfba3c-f90d-4ccf-a38a-f4ebfa936d7e
+f
+java:S1068!"*Remove this unused "logger" private field.(÷¸úóJ$639ee9c2-c740-4fe5-9ebb-69f829484cac

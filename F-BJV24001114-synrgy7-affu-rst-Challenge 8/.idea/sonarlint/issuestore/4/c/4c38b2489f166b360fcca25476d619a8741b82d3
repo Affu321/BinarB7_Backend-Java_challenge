@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â°ıĞşÿÿÿÿ
+X
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞ
+q
+java:S3305("[Inject this field value directly into "accessTokenConverter", the only method that uses it.(ê‹ˆ
+_
+java:S1874"DRemove this use of "WebSecurityConfigurerAdapter"; it is deprecated.(ßƒ€Œùÿÿÿÿ

@@ -1,0 +1,23 @@
+
+v
+java:S1104"YMake code_notFound a static final constant or non-public and provide accessors if needed.(Û€¨Œ8”†·2
+z
+java:S1104"XMake codeRequired a static final constant or non-public and provide accessors if needed.(Æÿ‹øüÿÿÿÿ8•†·2
+x
+java:S1104"VMake isRequired a static final constant or non-public and provide accessors if needed.( ±ãùÿÿÿÿ8•†·2
+y
+java:S1104"WMake code_sukses a static final constant or non-public and provide accessors if needed.(¬ò»şÿÿÿÿ8•†·2
+t
+java:S1104"WMake code_server a static final constant or non-public and provide accessors if needed.(‘®ç8•†·2
+r
+java:S1104"UMake code_null a static final constant or non-public and provide accessors if needed.(ñç¹í8•†·2
+|
+java:S1104"ZMake message_sukses a static final constant or non-public and provide accessors if needed.(‰Í¡½øÿÿÿÿ8•†·2
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(â°ıĞşÿÿÿÿJ$dec8b72e-6f36-4e67-9a27-71f002551e8e
+t	java:S116"XRename this field "code_notFound" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û€¨Œ8¢†·2
+w	java:S116"VRename this field "code_sukses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ò»şÿÿÿÿ8£†·2
+r	java:S116"VRename this field "code_server" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘®ç8£†·2
+p	java:S116"TRename this field "code_null" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñç¹í8£†·2
+z	java:S116"YRename this field "message_sukses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Í¡½øÿÿÿÿ8£†·2
+i
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(´ÖÊ8¬†·2

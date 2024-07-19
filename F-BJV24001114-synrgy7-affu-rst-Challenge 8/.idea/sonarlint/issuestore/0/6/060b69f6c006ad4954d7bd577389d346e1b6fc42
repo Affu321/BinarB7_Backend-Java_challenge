@@ -1,0 +1,24 @@
+
+h
+java:S11928"FDefine a constant instead of duplicating this literal "\t\t
+" 5 times.(“¡Ñ®ùÿÿÿÿ8ŸÎçË2
+d
+java:S1192b"GDefine a constant instead of duplicating this literal "</td>
+" 5 times.(ıÁÚõ8ŸÎçË2
+i
+java:S1192V"GDefine a constant instead of duplicating this literal "<tr>
+" 11 times.(‡ô€…øÿÿÿÿ8 ÎçË2
+j
+java:S1192\"HDefine a constant instead of duplicating this literal "</tr>
+" 10 times.(úÒ¶ÿÿÿÿÿ8 ÎçË2
+g
+java:S1192}"JDefine a constant instead of duplicating this literal "</table>
+" 3 times.(å¹Ğä8 ÎçË2
+b
+java:S1192"EDefine a constant instead of duplicating this literal "\t}
+" 7 times.(İÈõ¼8 ÎçË2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸŠòıÿÿÿÿ8¤ÎçË2
+N
+java:S6126"2Replace this String concatenation with Text block.(”¡¿c8³ÎçË2
+T
+java:S6126I"2Replace this String concatenation with Text block.(¤„¯ûÿÿÿÿ8¶ÎçË2

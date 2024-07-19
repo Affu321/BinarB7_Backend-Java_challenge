@@ -1,0 +1,76 @@
+
+p
+java:S3740\"/Provide the parametrized type for this generic.(Ï˜ÿèşÿÿÿÿJ$b18d993e-d383-4477-a919-54c635894025
+p
+java:S3740m"/Provide the parametrized type for this generic.(Æ£ÿÿÿÿÿJ$2569ef45-cd9c-475c-84eb-4ef854d0cc8e
+p
+java:S3740z"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿJ$cefc73f4-9a44-42ad-a217-5eabeeac6962
+l
+java:S3740™"/Provide the parametrized type for this generic.(§ÆÆØJ$da4afb4e-8dad-4360-8812-4051bede608e
+q
+java:S3740š"/Provide the parametrized type for this generic.(ª£’ıÿÿÿÿJ$0c570f31-d1c2-4c48-8553-87f9d03e3e70
+q
+java:S3740­"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿJ$1afa0d85-d2de-4daf-a27b-f36ce6d84e1c
+l
+java:S3740·"/Provide the parametrized type for this generic.(º¿ÅJ$0b9b9b0b-7bc0-445e-af9f-d6bcc6970b65
+q
+java:S3740½"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿJ$4875c440-a309-4b9e-8ac5-bca75a973b96
+q
+java:S3740À"/Provide the parametrized type for this generic.(îãŒ¢ÿÿÿÿÿJ$a3863810-cd8a-4280-8fd3-6c97c493721e
+š
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ£ÿÿÿÿÿJ$5992e091-56ee-4759-acd9-be219e11c087
+š
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿJ$d1ae45e2-60ce-4034-af70-2334b3732633
+›
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿJ$904f3bdb-56ce-4ccd-8844-e2673c24559f
+›
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿJ$b04f797a-7ac9-4e06-ab5d-9537f8885e6c
+›
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(îãŒ¢ÿÿÿÿÿJ$04e38d37-d890-48db-aed3-f24d6e8054b5
+„
+java:S1192w"HDefine a constant instead of duplicating this literal "message" 3 times.(ÏÓ†ˆJ$36c34c22-9052-48c8-88da-6ebc4e041f63
+ˆ
+java:S1192v"GDefine a constant instead of duplicating this literal "status" 3 times.(à¦È¿øÿÿÿÿJ$7ea90ada-bfd3-4c73-a16a-fca22ee59e21
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼çßJ$39b62e5e-0e00-425a-92e9-e0e94e7b143b
+	java:S1166"RRename this field "BASEURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×£ºÇJ$9a78d1cd-d5cd-420f-8d97-9f601b53a050
+	java:S116>"RRename this field "AUTHURL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªáÈ×J$b80ddb06-0eb3-43a7-b18a-e4ea474a1633
+’	java:S116M"RRename this field "APPNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñü¸ıÿÿÿÿJ$b377aac1-f5ad-446e-869e-2a576bff4035
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞJ$c8a58b78-b79a-4918-ab15-0fcf9155c065
+~
+java:S6813,"BRemove this field injection and use constructor injection instead.(êæÄŞJ$9e621848-68ae-4772-ace7-0886ab4bf468
+~
+java:S68132"BRemove this field injection and use constructor injection instead.(êæÄŞJ$a25abab8-14ea-4ada-9bf9-a23cb100f071
+~
+java:S68138"BRemove this field injection and use constructor injection instead.(êæÄŞJ$b4bf3f3e-560b-4885-aeee-eef0ae8a8510
+~
+java:S6813@"BRemove this field injection and use constructor injection instead.(êæÄŞJ$5c343c73-a457-4f50-961d-12b0ff3fe887
+~
+java:S6813C"BRemove this field injection and use constructor injection instead.(êæÄŞJ$50d674a2-bd00-4c22-a011-c178957a7bad
+~
+java:S6813F"BRemove this field injection and use constructor injection instead.(êæÄŞJ$da22e06d-3f8b-49e1-91af-5cb30219baf2
+~
+java:S6813I"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7fe590a9-5495-454e-8003-462bcdc1a112
+m
+java:S6857/",Correct this malformed property placeholder.(¦ØùôşÿÿÿÿJ$99d7da4c-085f-4f74-92a8-148cd917f04e
+m
+java:S68575",Correct this malformed property placeholder.(¬¹ˆêøÿÿÿÿJ$30cf5282-00f5-4edc-8542-51a2a2e78ab4
+m
+java:S6857=",Correct this malformed property placeholder.(±Â¯øÿÿÿÿJ$943b9840-d6c1-42ea-894f-ec541b8e4a0e
+m
+java:S6857L",Correct this malformed property placeholder.(ÿì¡ñüÿÿÿÿJ$c357907b-562f-4cbc-bd6a-4b14c1f04ae4
+o
+java:S6837["3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼J$f1e0ef23-6ea8-4ba9-9734-49daf26bcfb3
+w	java:S125T"<This block of commented-out lines of code should be removed.(µêî¡J$39059329-b8a2-4d20-b349-873455414517
+k	java:S106d"+Replace this use of System.out by a logger.(•æöÜúÿÿÿÿJ$6c1a218e-f978-4e05-935b-d2e512c9551f
+r
+java:S1874e"6Remove this use of "JacksonFactory"; it is deprecated.(¤·í©J$60167b8d-466c-424c-9a03-e235ca44e138
+f	java:S106y"+Replace this use of System.out by a logger.(Ä¼éËJ$6a5f21e6-4ab7-4c11-a0d5-5582f94b9601
+}	java:S125ˆ"<This block of commented-out lines of code should be removed.(òúÒ¥şÿÿÿÿJ$006cff05-adfc-4b15-82d4-a2c51cf3cc0f
+g	java:S106"+Replace this use of System.out by a logger.(Êš•ñJ$294fd174-16f0-4d6c-86ab-c222c73cab56
+x	java:S125"<This block of commented-out lines of code should be removed.(òŒŒÀJ$69700d68-c426-42ce-b399-0ba515158d28
+w	java:S125’"<This block of commented-out lines of code should be removed.(õ±‰IJ$cca5ebe1-d500-443a-a722-f3ea673d22df
+g	java:S106©"+Replace this use of System.out by a logger.(ğ¿¬ÑJ$ab4de91b-5f10-434a-b7d1-4c50a90ae729
+g	java:S106¼"+Replace this use of System.out by a logger.(îï¬J$de718b8d-9178-4a9e-be3a-aa9b2cb07fe9
+g	java:S106¿"+Replace this use of System.out by a logger.(Ë¤ÁìJ$b4cb9873-19bc-44d5-842e-a106130c6f85
+x	java:S125Å"<This block of commented-out lines of code should be removed.(ßû÷ŠJ$e065164f-a6cc-4c78-970d-9d4b37c317d7
