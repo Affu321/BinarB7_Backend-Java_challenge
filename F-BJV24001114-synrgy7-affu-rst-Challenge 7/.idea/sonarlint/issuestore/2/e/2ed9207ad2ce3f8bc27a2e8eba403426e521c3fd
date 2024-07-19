@@ -1,0 +1,31 @@
+
+p
+java:S37403"/Provide the parametrized type for this generic.(™Þ­ÔþÿÿÿÿJ$3bdd7cbd-0e66-438a-85f1-c12ef2dbb18e
+p
+java:S37403"/Provide the parametrized type for this generic.(™Þ­ÔþÿÿÿÿJ$e391321e-34f5-4390-ac1e-629c1b03e6c7
+p
+java:S3740O"/Provide the parametrized type for this generic.(™Þ­ÔþÿÿÿÿJ$5ed45e68-98ab-4f92-a187-6d09a326d4b4
+p
+java:S3740O"/Provide the parametrized type for this generic.(™Þ­ÔþÿÿÿÿJ$1c0d5185-88bf-4ce8-b5f1-366db2cd4c00
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¨ð’ÿÿÿÿÿJ$3baee458-b015-4a10-914c-bdc88f49a241
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$25de79c0-3544-4653-92da-db2a322b2384
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄÞJ$fd1069fd-62e4-4bba-a053-bd9014a8cfa7
+~
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄÞJ$c62ac963-cf60-4f81-a341-15513242fcc0
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄÞJ$811821f8-5f31-4c09-be87-e20b088227e7
+~
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄÞJ$1b942076-a114-43cf-8bf2-02bf34576596
+~
+java:S6813."BRemove this field injection and use constructor injection instead.(êæÄÞJ$3c14dc71-626c-4d47-aaf3-5ff55c329a86
+x
+java:S18543"7Remove this useless assignment to local variable "map".(™Þ­ÔþÿÿÿÿJ$a4524d0f-a6ec-483b-9bd8-5e49729d8754
+i
+java:S14813"(Remove this unused "map" local variable.(™Þ­ÔþÿÿÿÿJ$ca060e6a-ca9f-420d-b078-88a6e5b744ae
+x
+java:S1854O"7Remove this useless assignment to local variable "map".(™Þ­ÔþÿÿÿÿJ$8cbfcc42-d5ba-4384-b638-deee0c611f02
+i
+java:S1481O"(Remove this unused "map" local variable.(™Þ­ÔþÿÿÿÿJ$b712aa61-4043-4746-bb51-aaa67e3fadb7
+w	java:S125h"<This block of commented-out lines of code should be removed.(ª×§ôJ$489fe63b-f4f5-4c9e-a8b0-417ffd0082fc
